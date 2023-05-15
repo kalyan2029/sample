@@ -1,0 +1,8 @@
+<html>
+<head>
+</head>
+<body>
+<h1> Web Application </h1>
+<P> This application is AWS application </p>
+</body>
+</html>
